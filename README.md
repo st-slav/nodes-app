@@ -1,5 +1,7 @@
-start db - `mongod`
+`mongod` - start db
 
-start server - `npm run server`
+`npm run server` - start server
 
-start client - `npm start`
+`npm start` - start client
+
+tutorial - https://www.youtube.com/watch?v=mYvdeFfZ_NE
